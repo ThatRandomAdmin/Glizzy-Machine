@@ -1,2 +1,2 @@
 # Glizzy-Machine
-Create a folder full of glizzys
+Ever wanted to create a folder full of glizzy's? Now you can!
